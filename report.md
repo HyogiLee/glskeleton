@@ -1,12 +1,10 @@
 # Student Information
 
-student name:
+student name: 이효기
 
 
-student id:
+student id: 20145126
 
 
 
 # Result images
-
-
